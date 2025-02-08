@@ -10,7 +10,7 @@ This paper addresses the problem of planning feasible air corridors for UAVs. We
 ## Simulations
 
 ### Scenario 1
-- Evolution of the set of air corridors considering 4 vertiports in opposite direction:
+- Evolution of the set of air corridors considering four vertiports in opposite directions:
 
 ![coevolution_1_4_v1.gif](videos/coevolution_1_4_v1.gif)
 
@@ -41,3 +41,6 @@ This paper addresses the problem of planning feasible air corridors for UAVs. We
 
 
 ## Cite us
+
+## Info
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/eliasjof/ICUAS_2025_aircorridors&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=visits&edge_flat=false)](https://github.com/eliasjof/ICUAS_2025_aircorridors)
